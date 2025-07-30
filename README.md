@@ -20,7 +20,6 @@ project-root/
 │   └── lib/
 │       └── session.ts
 │
-├── pages/
 │   └── api/
 │       └── auth/
 │           └── [...nextauth].ts
