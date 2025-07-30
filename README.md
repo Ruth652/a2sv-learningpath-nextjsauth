@@ -26,7 +26,8 @@ project-root/
 │
 │
 ├── middleware.ts
-├── .env.local
+├── auth.ts
+├── .env
 ```
 
 ---
